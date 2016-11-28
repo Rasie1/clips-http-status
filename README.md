@@ -12,5 +12,7 @@ In CLIPS session,
 
 # Credits
 
+The project is made as a homework for Artificial Intelligence course by M. Puchkin
+
 Most questions are written by Michael Kropat [in his blog post](http://racksburg.com/choosing-an-http-status-code/)
 
